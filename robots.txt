@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 Disallow: /_src/
+Disallow: /_tools/
 Sitemap: https://techgearhq.com/sitemap.xml
